@@ -41,15 +41,6 @@
     * [Tratar Evidências](operacao_do_cadastro/aquisicao_de_dados_cadastrais/tratar-evidencias.md)
     * [Caracterização das seções cadastrais](operacao_do_cadastro/aquisicao_de_dados_cadastrais/caracterizacao-das-secoes-cadastrais.md)
     * [Identificar as Necessidades e Planificar ](operacao_do_cadastro/aquisicao_de_dados_cadastrais/identificar-as-necessidades-e-planificar.md)
-    * [Trabalho de Campo](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo.md)
-      * [Sensibilização e Comunicação](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/sensibilizacao-e-comunicacao.md)
-      * [Rastreio Social e de Género na Visita de Terreno](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/rastreio-social-e-de-genero-na-visita-de-terreno.md)
-      * [Recolher Dados da Parcela: Delimitação, Demarcação e Restrições](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/recolher-dados-da-parcela-delimitacao-demarcacao-e-restricoes.md)
-      * [Verificar e Recolher Dados dos Titulares](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/verificar-e-recolher-dados-dos-titulares.md)
-      * [Verificar e Recolher Dados Sobre Direitos](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/verificar-e-recolher-dados-sobre-direitos.md)
-      * [Recolher a Declaração de Titularidade em Campo](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/recolher-a-declaracao-de-titularidade-em-campo.md)
-      * [Identificar, Registar Ocupações e Construções Clandestinas/Ilegais](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/identificar-registar-ocupacoes-e-construcoes-clandestinasilegais.md)
-      * [Emitir comprovativo da visita](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/emitir-comprovativo-da-visita.md)
     * [Harmonização dos Dados Recolhidos](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos.md)
       * [Tratar a Proposta em Função da Informação da Declaração](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos/tratar-a-proposta-em-funcao-da-informacao-da-declaracao.md)
       * [Tratar Informação da descrição do Prédio](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos/tratar-informacao-da-descricao-do-predio.md)
@@ -97,6 +88,4 @@
     * [Ferramenta AMB 3: Ficha de análise das situações de restrição identificadas em campo e emissão de parecer](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/ferramentas_relativas_a_restricoes_administrativo-/ferramenta-amb-3.md)
 * [Controle de Qualidade](controle_de_qualidade/README.md)
   * [Verificação da Qualidade de Dados](controle_de_qualidade/verificacao_da_qualidade_de_dados.md)
-
-
 
